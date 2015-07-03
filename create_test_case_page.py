@@ -1,4 +1,4 @@
-from marionette import By, Actions, Wait
+from marionette_driver import By, Actions, Wait
 from time import sleep
 
 
